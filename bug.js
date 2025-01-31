@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo with a large amount of data. The error message may vary but often includes phrases like `AsyncStorage has exceeded its maximum size` or mentions a storage limit.  This is because AsyncStorage has inherent limitations on the size of data it can store, typically around 6MB on most devices.
